@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(62,26): warning C4047: 'return': 'DirectoryP' differs in levels of indirection from 'int'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(74,26): warning C4047: 'return': 'StackP' differs in levels of indirection from 'int'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(98,22): warning C4047: 'return': 'DirectoryP' differs in levels of indirection from 'int'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(105,17): warning C4133: 'return': incompatible types - from 'StackP' to 'DirectoryP'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(101,9): warning C4133: 'initializing': incompatible types - from 'DirectoryP' to 'StackP'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(136,36): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(139,41): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(142,43): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(145,42): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(148,43): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(187,44): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(225,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\DirectorySimulator\main.c(230): warning C4715: 'DeleteAll': not all control paths return a value
+  DirectorySimulator.vcxproj -> C:\Users\Ivan\Documents\GitHub\FirstPrograms\DirectorySimulator\x64\Debug\DirectorySimulator.exe
